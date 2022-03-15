@@ -45,8 +45,6 @@
   <br/>
 
 <br/>
-<br/>
-<br/>
 
 ## ❤️**Views and Followers :**
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
