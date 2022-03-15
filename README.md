@@ -1,7 +1,6 @@
 <h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,This is Anupama Munagapati</h1>
 
-## 🙋‍♀️ About Me
-
+## 🙋‍♀️ **About Me :**
 - 🎓 pursuing Btech in Computer Science and Engineering from **IIIT Dharwad**.
 - ✨ contributor @ **GSSoC'22**(GirlScript Summer of Code 2022). 
   
@@ -13,7 +12,7 @@
   
 - 😊 connect with me : [Linkedin](https://www.linkedin.com/in/anupama-munagapati-3660021a1/)
   
-## 🚀 Languages and Tools:
+## 🚀 **Languages and Tools:**
 
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c programming" width="48" height="48"/> </a>
@@ -30,30 +29,26 @@
 
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-## 🔥My Github Streak 
+## 🔥**My Github Streak**
 <p align="center">
     <a href="https://github.com/ANUPAMA0221/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anupama's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ANUPAMA0221&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 **My Github Stats**
 
   <br/>
     <a href="https://github.com/ANUPAMA0221/github-readme-stats"><img alt="Anupama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ANUPAMA0221&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
-
-<a href="https://github.com/ANUPAMA0221/github-readme-activity-graph"><img alt="Anupama's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ANUPAMA0221&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
-## ❤️Views and Followers :
+## ❤️**Views and Followers :**
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ANUPAMA0221">
 </a>
