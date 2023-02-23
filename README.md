@@ -4,7 +4,7 @@
 - 🎓 pursuing Btech in Computer Science and Engineering from **IIIT Dharwad**.
 - ✨ contributor @ **GSSoC'22**(GirlScript Summer of Code 2022). 
   
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Reactjs**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
