@@ -2,15 +2,14 @@
 
 ## 🙋‍♀️ **About Me :**
 - 🎓 pursuing Btech in Computer Science and Engineering from **IIIT Dharwad**.
-- ✨ contributor @ **GSSoC'22**(GirlScript Summer of Code 2022). 
   
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Reactjs.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
 - 📫 How to reach me : **anupamamunagapati@gmail.com** 
   
-- 😊 connect with me : [Linkedin](https://www.linkedin.com/in/anupama-munagapati-3660021a1/)
+- ✨ connect with me : [Linkedin](https://www.linkedin.com/in/anupama-munagapati-3660021a1/)
   
 ## 🚀 **Languages and Tools:**
 
