@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 📫 How to reach me : **munagapati.anupama@gmail.com** 
+- 📫 How to reach me : **anupamamunagapati@gmail.com** 
   
 - 😊 connect with me : [Linkedin](https://www.linkedin.com/in/anupama-munagapati-3660021a1/)
   
