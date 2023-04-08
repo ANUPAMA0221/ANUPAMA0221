@@ -3,7 +3,7 @@
 ## 🙋‍♀️ **About Me :**
 - 🎓 pursuing Btech in Computer Science and Engineering from **IIIT Dharwad**.
   
-- 🌱 I’m currently learning **Reactjs.**
+- 🌱 I’m currently learning **MongoDB.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
