@@ -1,9 +1,9 @@
 <h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,This is Anupama Munagapati</h1>
 
 ## 🙋‍♀️ **About Me :**
-- 🎓 pursuing Btech in Computer Science and Engineering from **IIIT Dharwad**.
+- 🎓 graduated in Btech in Computer Science and Engineering from **IIIT Dharwad** in 2023.
   
-- 🌱 I’m currently learning **MongoDB.**
+- 🌱 I’m currently learning **MERN stack.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
@@ -25,6 +25,7 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/offices/30/000000/php-logo.png" alt="php" width="48" height="48"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://react.dev/" target="_blank"> <img src="https://reactjs.org/logo-og.png"width="85" height="48"/> </a> 
 
 </p>
 
