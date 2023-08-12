@@ -1,7 +1,7 @@
 <h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,This is Anupama Munagapati</h1>
 
 ## 🙋‍♀️ **About Me :**
-- 🎓 graduated in Btech in Computer Science and Engineering from **IIIT Dharwad** in 2023.
+- 🎓 graduated my Btech course in Computer Science and Engineering from **IIIT Dharwad** in 2023.
   
 - 🌱 I’m currently learning **MERN stack.**
 
