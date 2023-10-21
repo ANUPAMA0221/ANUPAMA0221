@@ -3,7 +3,7 @@
 ## 🙋‍♀️ **About Me :**
 - 🎓 graduated my Btech course in Computer Science and Engineering from **IIIT Dharwad** in 2023.
   
-- 🌱 I’m currently learning **MERN stack.**
+- 🌱 I’m currently working at **Ielektron Technologies Engineering Private Limited** as a data science intern on Driver monitoring system.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
